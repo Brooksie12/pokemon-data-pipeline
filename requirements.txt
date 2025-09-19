@@ -1,0 +1,3 @@
+pandas
+mysql-connecter-python
+requests
